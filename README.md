@@ -6,3 +6,5 @@ how to run the code:
 - create a folder called 'data'
 - insert the recipes_w_search_terms.csv in the folder data
 - run the script 'preprocessing.ipynb' before running the other scripts
+
+to change settings of preprocessing or CGAN, please change global variables in settings section of the respective file
